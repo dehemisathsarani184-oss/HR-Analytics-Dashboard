@@ -1,4 +1,4 @@
-## HR-Analytics-Dashboard
+## HR Analytics Dashboard
 
 This project is an HR Analytics Dashboard created using Power BI. It helps visualize important HR related metrics such as monthly income, age group, gender, attrition, employee satisfaction, job roles, performance ratings, and tenure groups. The dashboard supports HR managers and decision makers by providing clear insights into workforce patterns.
 
@@ -50,7 +50,7 @@ Using Power BI, the dashboard provides a simple and clear view of HR metrics tha
 - Performance Rating by Job Role  
 - Employee Distribution by Marital Status  
 - Job Level Summary Table  
-- Page Navigation Buttons (HR, R&D, Sales)  
+- Page Navigation Buttons (HR, Research & Development, Sales)  
 
 ---
 
