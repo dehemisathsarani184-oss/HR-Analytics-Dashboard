@@ -17,7 +17,7 @@ Using Power BI, the dashboard provides a simple and clear view of HR metrics tha
 - To analyze average monthly income, total employees, satisfaction scores and performance ratings.  
 - To identify attrition patterns by salary slabs and job roles. 
 - To analyze employee education fields and job levels. 
-- To create an interactive and user-friendly Power BI dashboard.
+- To create an interactive and user friendly Power BI dashboard.
 
 ---
 
@@ -28,7 +28,7 @@ Using Power BI, the dashboard provides a simple and clear view of HR metrics tha
 - **DAX** – Creating measures and calculated columns  
 - **CSV Dataset** – Raw data source 
 	- Name : HR_Analytics.csv
-  - Resource : Kaggle website 
+    - Resource : Kaggle website 
 
 ---
 
