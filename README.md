@@ -74,9 +74,3 @@ Using Power BI, the dashboard provides a simple and clear view of HR metrics tha
 ![HR Dashboard 6](https://github.com/dehemisathsarani184-oss/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshot/HR%20Dashboard%206.PNG)
 
 ---
-
-## 👤 Author and Contact
-
-- Name: D. S. Senevirathna
-- LinkedIn: https://www.linkedin.com/in/dehemi-sathsarani-343399352
-- Email: dehemisathsarani184@gmail.com
