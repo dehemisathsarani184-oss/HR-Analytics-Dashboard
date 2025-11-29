@@ -66,12 +66,12 @@ Using Power BI, the dashboard provides a simple and clear view of HR metrics tha
 
 ## 📸 Dashboard Screenshot
 
-![Screenshot](Dashboard Screenshot/hr1.png)
-![Screenshot](Dashboard Screenshot/hr2.png)
-![Screenshot](Dashboard Screenshot/hr3.png)
-![Screenshot](Dashboard Screenshot/hr4.png)
-![Screenshot](Dashboard Screenshot/hr5.png)
-![Screenshot](Dashboard Screenshot/hr6.png)
+![Screenshot](Dashboard Screenshot/HR Dashboard 1.png)
+![Screenshot](Dashboard Screenshot/HR Dashboard 2.png)
+![Screenshot](Dashboard Screenshot/HR Dashboard 3.png)
+![Screenshot](Dashboard Screenshot/HR Dashboard 4.png)
+![Screenshot](Dashboard Screenshot/HR Dashboard 5.png)
+![Screenshot](Dashboard Screenshot/HR Dashboard 6.png)
 
 ---
 
