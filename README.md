@@ -67,7 +67,7 @@ Using Power BI, the dashboard provides a simple and clear view of HR metrics tha
 ## 📸 Dashboard Screenshot
 
 ![HR Dashboard 1](https://github.com/dehemisathsarani184-oss/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshot/HR%20Dashboard%201.PNG)
-![HR Dashboard 2](https://github.com/dehemisathsarani184-oss/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshot/HR%20Dashboard%202.PNG))
+![HR Dashboard 2](https://github.com/dehemisathsarani184-oss/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshot/HR%20Dashboard%202.PNG)
 ![HR Dashboard 3](https://github.com/dehemisathsarani184-oss/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshot/HR%20Dashboard%203.PNG)
 ![HR Dashboard 4](https://github.com/dehemisathsarani184-oss/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshot/HR%20Dashboard%204.PNG)
 ![HR Dashboard 5](https://github.com/dehemisathsarani184-oss/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshot/HR%20Dashboard%205.PNG)
